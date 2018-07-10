@@ -1,0 +1,30 @@
+a {
+text-decoration: none;
+}
+
+body {
+    text-decoration: none;
+    font-family:sans-serif;
+    background-color: lightblue;
+    background-image: url("Tumblr-Background-Gif-5.gif");
+    text-align:center;
+}
+
+h1 {
+  color: #7a42f4;
+  text-align: center;
+  text-transform: : uppercase;
+  font-size: 2em;
+  line-height: 4em;
+  font-weight: bold;
+   text-decoration: none;
+}
+
+h2 {
+       text-decoration: none;
+  color: #f44271;
+}
+
+#cool{
+    text-decoration: none;
+}
